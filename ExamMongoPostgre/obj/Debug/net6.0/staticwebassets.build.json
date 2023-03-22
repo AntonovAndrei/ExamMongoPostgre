@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6autiiuZoad3zbA5af6HI/614PgpsckKUAgogOTrfoE=",
+  "Source": "ExamMongoPostgre",
+  "BasePath": "_content/ExamMongoPostgre",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\bin\Debug\net6.0\PostgrePersistence.deps.json
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\bin\Debug\net6.0\PostgrePersistence.dll
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\bin\Debug\net6.0\PostgrePersistence.pdb
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\bin\Debug\net6.0\Domain.dll
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\bin\Debug\net6.0\Domain.pdb
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\obj\Debug\net6.0\PostgrePersistence.csproj.AssemblyReference.cache
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\obj\Debug\net6.0\PostgrePersistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\obj\Debug\net6.0\PostgrePersistence.AssemblyInfoInputs.cache
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\obj\Debug\net6.0\PostgrePersistence.AssemblyInfo.cs
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\obj\Debug\net6.0\PostgrePersistence.csproj.CoreCompileInputs.cache
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\obj\Debug\net6.0\PostgrePersistence.csproj.CopyComplete
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\obj\Debug\net6.0\PostgrePersistence.dll
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\obj\Debug\net6.0\refint\PostgrePersistence.dll
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\obj\Debug\net6.0\PostgrePersistence.pdb
+C:\Users\U_M1HY4\RiderProjects\ExamMongoPostgre\PostgrePersistence\obj\Debug\net6.0\ref\PostgrePersistence.dll

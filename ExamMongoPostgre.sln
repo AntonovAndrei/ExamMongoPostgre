@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamMongoPostgre", "ExamMongoPostgre\ExamMongoPostgre.csproj", "{E6A9D648-B2B8-4F49-B3C0-2C1471B8DA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{9BB28284-3ECE-4948-930D-348F12E4EF4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoPersistence", "MongoPersistence\MongoPersistence.csproj", "{A89899AF-B590-47F0-BAF7-BB5DC6390571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgrePersistence", "PostgrePersistence\PostgrePersistence.csproj", "{17EB8693-0E41-4840-AA7B-0108577A4004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6A9D648-B2B8-4F49-B3C0-2C1471B8DA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A9D648-B2B8-4F49-B3C0-2C1471B8DA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A9D648-B2B8-4F49-B3C0-2C1471B8DA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A9D648-B2B8-4F49-B3C0-2C1471B8DA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB28284-3ECE-4948-930D-348F12E4EF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB28284-3ECE-4948-930D-348F12E4EF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB28284-3ECE-4948-930D-348F12E4EF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB28284-3ECE-4948-930D-348F12E4EF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A89899AF-B590-47F0-BAF7-BB5DC6390571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89899AF-B590-47F0-BAF7-BB5DC6390571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89899AF-B590-47F0-BAF7-BB5DC6390571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89899AF-B590-47F0-BAF7-BB5DC6390571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EB8693-0E41-4840-AA7B-0108577A4004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EB8693-0E41-4840-AA7B-0108577A4004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EB8693-0E41-4840-AA7B-0108577A4004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EB8693-0E41-4840-AA7B-0108577A4004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
